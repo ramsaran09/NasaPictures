@@ -1,4 +1,4 @@
-#NasaPictures
+NasaPictures
 
 This is a simple android application which display images taken in Space and its information.
 We parse JSON data from the Json file placed in asset folder and display the images and the associated data in a list;
